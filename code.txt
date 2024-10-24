@@ -11,4 +11,8 @@ double Mult(double x, double y)
 double Div(double x, double y)
 {
   return x/y;
+
+double Sub(double x, double y)
+{
+  return x-y;
 }
