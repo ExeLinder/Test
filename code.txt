@@ -1,6 +1,4 @@
-qergwrtgwt
-
-wergwrtgertg
-
-
-wrtgwrtghwrtg
+double Add(double x, double y)
+{
+	return x+y;
+}
