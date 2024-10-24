@@ -2,3 +2,13 @@ double Add(double x, double y)
 {
   return x+y;
 }
+
+double Mult(double x, double y)
+{
+  return x*y;
+}
+
+double Div(double x, double y)
+{
+  return x/y;
+}
